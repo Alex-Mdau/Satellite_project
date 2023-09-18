@@ -20,7 +20,7 @@ np.seterr(divide='ignore', invalid='ignore')
 
 #Reading the data
 
-S_sentinel_bands = glob("/D:/Final Project/Satellite_/Clustering/Naivasha _Kenya/*B?*.tiff")
+S_sentinel_bands = glob("https://drive.google.com/drive/folders/1ghhTqjdmWu9WoABaPlf77s1gmD2lW81p?usp=sharing*B?*.tiff")
 S_sentinel_bands.sort()
 S_sentinel_bands
 
