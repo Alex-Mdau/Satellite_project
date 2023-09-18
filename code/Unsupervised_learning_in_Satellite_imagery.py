@@ -19,7 +19,7 @@ np.seterr(divide='ignore', invalid='ignore')
 
 #reading the data
 
-S_sentinel_bands = glob("D:\Final Project\Satellite_\Data\Lamu_Coast_Kenya\*B?*.tif")
+S_sentinel_bands = glob("https://drive.google.com/drive/folders/1ghhTqjdmWu9WoABaPlf77s1gmD2lW81p?usp=sharing*B?*.tif")
 S_sentinel_bands.sort()
 S_sentinel_bands
 
